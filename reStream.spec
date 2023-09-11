@@ -5,7 +5,7 @@ Version:        1.2.0
 Release:        %autorelease
 URL:            https://github.com/rien/reStream
 Source:         %{url}/archive/%{version}/restream-%{version}.tar.gz
-Patch0:         reStream_helptext.patch
+Patch0:         https://raw.githubusercontent.com/thebeanogamer/reStream/main/reStream_helptext.patch
 Summary:        Stream your reMarkable screen over SSH
 License:        MIT
 BuildArch:      noarch
