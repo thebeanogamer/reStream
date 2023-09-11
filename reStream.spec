@@ -10,6 +10,8 @@ Summary:        Stream your reMarkable screen over SSH
 License:        MIT
 BuildArch:      noarch
 
+BuildRequires:  help2man
+
 Requires:       /usr/bin/sh
 Requires:       openssh-clients
 Requires:       ffmpeg >= 4.0.0
