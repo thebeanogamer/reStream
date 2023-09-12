@@ -1,4 +1,4 @@
-%define debug_package %{nil}
+%global debug_package %{nil}
 
 Name:           reStream
 Version:        1.2.0
