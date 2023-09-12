@@ -9,7 +9,7 @@ License:        MIT
 BuildArch:      noarch
 
 Source:         %{url}/archive/%{version}/restream-%{version}.tar.gz
-Patch:          https://raw.githubusercontent.com/thebeanogamer/reStream/main/reStream_helptext.patch
+Patch:          https://patch-diff.githubusercontent.com/raw/rien/reStream/pull/98.patch
 
 BuildRequires:  help2man
 
