@@ -15,7 +15,7 @@ BuildRequires:  help2man
 
 Requires:       /usr/bin/sh
 Requires:       openssh-clients
-Requires:       ffmpeg >= 4.0.0
+Requires:       (ffmpeg-free >= 4.0.0 or ffmpeg >= 4.0.0)
 Requires:       lz4
 
 %description
